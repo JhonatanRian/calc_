@@ -6,7 +6,7 @@
 
 #### 📒+🖥 I am a student, passionate about information technology.
 
-#### The purpose of this program is to create a notebook
+#### The purpose of this program is simple numerical calculations.
 
 ##### technologies used:
 ✅ Python
